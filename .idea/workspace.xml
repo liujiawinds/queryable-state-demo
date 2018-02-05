@@ -38,8 +38,8 @@
       <file leaf-file-name="EventCountClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/EventCountClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="41" column="85" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -65,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BumpEventGeneratorSource.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BumpEventGeneratorSource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/job/BumpEventGeneratorSource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
@@ -85,15 +85,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="161" column="39" selection-start-line="161" selection-start-column="39" selection-end-line="161" selection-end-column="39" />
+            <state relative-caret-position="-1200">
+              <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#7034#7035#0" expanded="true" />
-                <element signature="e#7089#7090#0" expanded="true" />
+                <element signature="e#4652#4653#0" expanded="true" />
+                <element signature="e#4707#4708#0" expanded="true" />
+                <element signature="e#10099#10100#0" expanded="true" />
+                <element signature="e#10132#10133#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,11 +170,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/QueryClientHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/RequestExecutionGraph.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/job/EventCountJob.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/EventCountClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/job/BumpEventGeneratorSource.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/Test.java" />
       </list>
     </option>
   </component>
@@ -405,7 +407,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EventCountClient">
+  <component name="RunManager" selected="JUnit.Test.testQuery">
     <configuration default="false" name="EventCountJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -956,10 +958,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EventCountClient" />
-        <item index="1" class="java.lang.String" itemvalue="Application.EventCountJob" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Test.testQuery" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Test.testJob" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Test.testQuery" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Test.testJob" />
+        <item index="2" class="java.lang.String" itemvalue="Application.EventCountClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EventCountJob" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.Test.testAggregatingState" />
       </list>
     </recent_temporary>
@@ -980,25 +982,16 @@
       <option name="presentableId" value="Default" />
       <updated>1517541542802</updated>
       <workItem from="1517541544527" duration="12049000" />
-      <workItem from="1517563746607" duration="5394000" />
+      <workItem from="1517563746607" duration="6634000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_testJob - 2018.02.02 at 18h 14m 03s.xml">
-      <configuration name="Test.testJob" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_testJob - 2018.02.02 at 18h 15m 06s.xml">
-      <configuration name="Test.testJob" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test_testJob - 2018.02.02 at 18h 20m 12s.xml">
       <configuration name="Test.testJob" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Test_testJob - 2018.02.05 at 09h 50m 13s.xml">
       <configuration name="Test.testJob" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_testQuery - 2018.02.02 at 18h 01m 08s.xml">
-      <configuration name="Test.testQuery" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Test_testQuery - 2018.02.02 at 18h 15m 39s.xml">
       <configuration name="Test.testQuery" configurationId="JUnit" />
@@ -1015,9 +1008,18 @@
     <history-entry file="Test_testQuery - 2018.02.02 at 18h 20m 46s.xml">
       <configuration name="Test.testQuery" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test_testQuery - 2018.02.05 at 10h 25m 06s.xml">
+      <configuration name="Test.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testQuery - 2018.02.05 at 10h 25m 34s.xml">
+      <configuration name="Test.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testQuery - 2018.02.05 at 10h 26m 42s.xml">
+      <configuration name="Test.testQuery" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17443000" />
+    <option name="totallyTimeSpent" value="18683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-1057" width="1920" height="1057" extended-state="6" />
@@ -1031,7 +1033,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1077,7 +1079,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/Test.java</url>
-          <line>216</line>
+          <line>172</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
@@ -1147,8 +1149,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#7034#7035#0" expanded="true" />
-            <element signature="e#7089#7090#0" expanded="true" />
+            <element signature="e#4652#4653#0" expanded="true" />
+            <element signature="e#4707#4708#0" expanded="true" />
+            <element signature="e#10099#10100#0" expanded="true" />
+            <element signature="e#10132#10133#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1239,33 +1243,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/TestingJobManagerMessages.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-queryable-state-client-java_2.11/1.4.0/flink-queryable-state-client-java_2.11-1.4.0-sources.jar!/org/apache/flink/queryablestate/client/QueryableStateClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3045">
           <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="161" column="39" selection-start-line="161" selection-start-column="39" selection-end-line="161" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7034#7035#0" expanded="true" />
-            <element signature="e#7089#7090#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1285,6 +1267,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/job/BumpEventGeneratorSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/TestingJobManagerMessages.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/QueryClientHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
@@ -1297,17 +1297,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/EventCountClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="41" column="85" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hansight/hanstreaming/job/BumpEventGeneratorSource.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hansight/hanstreaming/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-1200">
+          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4652#4653#0" expanded="true" />
+            <element signature="e#4707#4708#0" expanded="true" />
+            <element signature="e#10099#10100#0" expanded="true" />
+            <element signature="e#10132#10133#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
